@@ -3,7 +3,7 @@
 exports[`<Main /> should render the heading 1`] = `
 .c0 {
   background-color: #06092b;
-  color: #ffff;
+  color: #fff;
   width: 100%;
   height: 100%;
   padding: 3rem;
@@ -50,7 +50,7 @@ exports[`<Main /> should render the heading 1`] = `
   <img
     alt="Imagem de um átomo e React Avançado escrito ao lado"
     class="c1"
-    src="/img/logo.svg"
+    src="img/logo.svg"
   />
   <h1
     class="c2"
@@ -60,7 +60,7 @@ exports[`<Main /> should render the heading 1`] = `
   <h2
     class="c3"
   >
-    TypeScript, ReactJS, NextJs e Styled Components
+    TypeScript, ReactJS, NextJS e Styled Components
   </h2>
   <img
     alt="Um desenvolvedor de frente para uma tela com código"
